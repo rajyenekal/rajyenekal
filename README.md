@@ -16,17 +16,11 @@ I'm a **QA Automation Engineer** passionate about delivering high-quality softwa
 - **Test Case Execution**: Manually executes test cases to ensure software meets specified requirements and quality standards.
 
 #### **Hybrid Framework**
-- **Integrated Testing**: Combines Selenium, Appium, and RestAssured scripts within a single framework.
-- **Configurable & Scalable**: Easily switch configurations and add new tests.
-- **Azure Pipelines Integration**: Seamlessly integrates with Azure Pipelines for continuous integration and continuous delivery (CI/CD). This ensures automatic test execution with each code change, providing rapid feedback and catching issues early.
-
-#### **CI/CD & DevOps**
-- **CI/CD**: Implements continuous integration and continuous delivery practices to automate testing and deployment, ensuring a smooth and efficient development lifecycle.
-- **DevOps Practices**: Leverages DevOps tools and practices to improve collaboration between development and operations, streamline workflows, and enhance software delivery.
-
-#### **Unique Features**
-- **Advanced Reporting**: Sends detailed mail reports with screenshots of failed tests for comprehensive insights.
-- **Retry Analyzer**: Automatically re-runs failed tests a specified number of times to enhance reliability and reduce flaky results.
+- **Integrated Testing**: Combines Selenium, Appium, and RestAssured scripts within a single framework, providing a comprehensive testing solution for both web and mobile applications.
+- **Configurable & Scalable**: Allows easy switching between different configurations and test environments without altering the core code. Designed with a modular approach to simplify adding new tests and features.
+- **Azure Pipelines Integration**: Seamlessly integrates with Azure Pipelines, enabling continuous integration and continuous delivery (CI/CD). This ensures that tests are automatically executed with each code change, providing rapid feedback and helping catch issues early.
+- **Advanced Reporting**: Includes a mail reporting feature that sends detailed test reports after each test run. These reports feature screenshots of failed tests, offering comprehensive insights into test results, errors, and performance.
+- **Retry Analyzer**: Enhances test stability and reliability by automatically re-running failed tests a specified number of times before marking them as failed. This feature reduces the impact of flaky tests and ensures more consistent results.
 
 #### **Skills**
 - **Java & Python**: Writes efficient, reusable test scripts.
