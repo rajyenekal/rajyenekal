@@ -1,6 +1,6 @@
 ### Hi there! 👋 I'm Rajaneesh K B
 
-I'm a **QA Automation Engineer** passionate about delivering high-quality software through effective automation and manual testing. I specialize in using **Selenium**, **Appium**, and **RestAssured** within a hybrid framework for comprehensive testing.
+I'm a **QA Automation Engineer** passionate about delivering high-quality software through effective automation and manual testing. I specialize in using **Selenium**, **Appium**, and **RestAssured** within a hybrid framework for comprehensive testing. I also have a strong focus on **CI/CD** and **DevOps** practices to streamline and enhance the software delivery process.
 
 ---
 
@@ -20,6 +20,10 @@ I'm a **QA Automation Engineer** passionate about delivering high-quality softwa
 - **Configurable & Scalable**: Easily switch configurations and add new tests.
 - **Azure Pipelines Integration**: Seamlessly integrates with Azure Pipelines for continuous integration and continuous delivery (CI/CD). This ensures automatic test execution with each code change, providing rapid feedback and catching issues early.
 
+#### **CI/CD & DevOps**
+- **CI/CD**: Implements continuous integration and continuous delivery practices to automate testing and deployment, ensuring a smooth and efficient development lifecycle.
+- **DevOps Practices**: Leverages DevOps tools and practices to improve collaboration between development and operations, streamline workflows, and enhance software delivery.
+
 #### **Unique Features**
 - **Advanced Reporting**: Sends detailed mail reports with screenshots of failed tests for comprehensive insights.
 - **Retry Analyzer**: Automatically re-runs failed tests a specified number of times to enhance reliability and reduce flaky results.
@@ -31,7 +35,7 @@ I'm a **QA Automation Engineer** passionate about delivering high-quality softwa
 ---
 
 ### 🌱 Always Learning
-Exploring new tools and methodologies to enhance automation and DevOps practices.
+Exploring new tools and methodologies to enhance automation, CI/CD, and DevOps practices.
 
 ---
 
