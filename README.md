@@ -1,6 +1,6 @@
 ### Hi there! 👋 I'm Rajaneesh K B
 
-I'm a **QA Automation Engineer** passionate about delivering high-quality software through effective automation. I specialize in using **Selenium**, **Appium**, and **RestAssured** within a hybrid framework for comprehensive testing.
+I'm a **QA Automation Engineer** passionate about delivering high-quality software through effective automation and manual testing. I specialize in using **Selenium**, **Appium**, and **RestAssured** within a hybrid framework for comprehensive testing.
 
 ---
 
@@ -10,6 +10,10 @@ I'm a **QA Automation Engineer** passionate about delivering high-quality softwa
 - **Selenium**: Automates web applications for cross-browser compatibility.
 - **Appium**: Automates mobile applications for both Android and iOS.
 - **RestAssured**: Performs robust API testing, ensuring APIs are reliable, secure, and performant.
+
+#### **Manual Testing**
+- **Exploratory Testing**: Conducts thorough exploratory testing to uncover issues not covered by automated tests.
+- **Test Case Execution**: Manually executes test cases to ensure software meets specified requirements and quality standards.
 
 #### **Hybrid Framework**
 - **Integrated Testing**: Combines Selenium, Appium, and RestAssured scripts within a single framework.
