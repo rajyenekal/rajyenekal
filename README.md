@@ -1,9 +1,8 @@
 ### Hi there! 👋 I'm Rajaneesh K B 
 
 
-<a href="./RAJANEESH_KB_QA.pdf" download>
-  <img src="https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=download" alt="Download Resume">
-</a>
+[![Download Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=download)](https://github.com/rajyenekal/rajyenekal/raw/main/RAJANEESH_KB_QA.zip)
+
 
 
 
