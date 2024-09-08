@@ -5,7 +5,10 @@
 
 
 
-[![Download My Resume](https://img.shields.io/badge/Download-My_Resume-blue?style=for-the-badge&logo=file-download)](https://github.com/rajyenekal/rajyenekal/raw/main/RAJANEESH_KB_QA.zip)
+<a href="https://github.com/rajyenekal/rajyenekal/raw/main/RAJANEESH_KB_QA.zip">
+    <img src="https://img.shields.io/badge/Download-My_Resume-blue?style=for-the-badge&logo=file-download" alt="Download My Resume" width="120"/>
+</a>
+
 
 
 
