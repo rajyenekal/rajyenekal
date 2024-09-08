@@ -1,8 +1,10 @@
-### Hi there! 👋 I'm Rajaneesh K B
+### Hi there! 👋 I'm Rajaneesh K B 
 
-I'm a **QA Automation Engineer** passionate about delivering high-quality software through effective automation and manual testing. I specialize in using **Selenium**, **Appium**, and **RestAssured** within a hybrid framework for comprehensive testing. I also have a strong focus on **CI/CD** and **DevOps** practices to streamline and enhance the software delivery process.
+
 [![Download Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=download)](./RAJANEESH_KB_QA.pdf)
 
+
+I'm a **QA Automation Engineer** passionate about delivering high-quality software through effective automation and manual testing. I specialize in using **Selenium**, **Appium**, and **RestAssured** within a hybrid framework for comprehensive testing. I also have a strong focus on **CI/CD** and **DevOps** practices to streamline and enhance the software delivery process.
 ---
 
 ### 🚀 My Expertise:
