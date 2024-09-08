@@ -1,5 +1,5 @@
 ### Hi there! 👋 I'm Rajaneesh K B 
-***Quality Analyst - I at Leadrat CRM***  
+***Quality Analyst - 1 at Leadrat CRM***  
 
 📞 +91 9741846197 | 📧 [rajyenekal@gmail.com](mailto:rajyenekal@gmail.com) | 📍 Bengaluru, Karnataka | [My LinkedIn](https://www.linkedin.com/in/rajaneesh-k-b-68965b221/)
 
