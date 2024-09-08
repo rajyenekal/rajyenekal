@@ -1,6 +1,8 @@
 ### Hi there! 👋 I'm Rajaneesh K B 
-Quality Analyst - I
-📞 +91 9741846197 | 📧 rajyenekal@gmail.com | 📍 Bengaluru, Karnataka | LinkedIn
+*Quality Analyst - I*  
+📞 +91 9741846197 | 📧 [rajyenekal@gmail.com](mailto:rajyenekal@gmail.com) | 📍 Bengaluru, Karnataka | [LinkedIn](https://www.linkedin.com/in/rajaneesh-k-b-68965b221/)
+
+
 
 
 [![Download My Resume](https://img.shields.io/badge/Download-My_Resume-blue?style=for-the-badge&logo=file-download)](https://github.com/rajyenekal/rajyenekal/raw/main/RAJANEESH_KB_QA.zip)
