@@ -1,6 +1,6 @@
 ### Hi there! 👋 I'm Rajaneesh K B 
 
-[![Get My Resume](https://img.shields.io/badge/Get-My_Resume-blue?style=for-the-badge&logo=download)](https://github.com/rajyenekal/rajyenekal/raw/main/RAJANEESH_KB_QA.zip)
+[![Download My Resume](https://img.shields.io/badge/Download-My_Resume-blue?style=for-the-badge&logo=file-download)](https://github.com/rajyenekal/rajyenekal/raw/main/RAJANEESH_KB_QA.zip)
 
 
 
