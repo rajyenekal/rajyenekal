@@ -6,13 +6,20 @@
 
 
 
+<head>
+  <!-- Link to Font Awesome for icons -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
 
-<a href="https://drive.google.com/file/d/1fCN4Tn7fiz4zF0zoEEaADXkKMHqOLp-U/view?usp=sharing" class="view-resume" target="_blank" aria-label="View Resume" title="View my resume">
-  <i class="bi bi-eye"></i> View Resume
-</a>
-<a href="https://drive.google.com/uc?export=download&id=1fCN4Tn7fiz4zF0zoEEaADXkKMHqOLp-U" class="download-resume" aria-label="Download Resume" title="Download my resume">
-  <i class="bi bi-download"></i> Download Resume
-</a>
+<body>
+  <a href="https://drive.google.com/file/d/1fCN4Tn7fiz4zF0zoEEaADXkKMHqOLp-U/view?usp=sharing" class="view-resume" target="_blank" aria-label="View Resume" title="View my resume">
+    <i class="fas fa-eye"></i> View Resume
+  </a>
+  <a href="https://drive.google.com/uc?export=download&id=1fCN4Tn7fiz4zF0zoEEaADXkKMHqOLp-U" class="download-resume" aria-label="Download Resume" title="Download my resume">
+    <i class="fas fa-download"></i> Download Resume
+  </a>
+</body>
+
 
 
 
