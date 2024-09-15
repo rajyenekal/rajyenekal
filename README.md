@@ -1,16 +1,16 @@
 ### Hi there! 👋 I'm Rajaneesh K B 
 ***Quality Analyst - 1 at Leadrat CRM***  
 
-📞 +91 9741846197 | 📧 [rajyenekal@gmail.com](mailto:rajyenekal@gmail.com) | 📍 Bengaluru, Karnataka | [My LinkedIn](https://www.linkedin.com/in/rajaneesh-k-b-68965b221/)
+📞 +91 9741846197 | 📧 [rajyenekal@gmail.com](mailto:rajyenekal@gmail.com) | 📍 Bengaluru, Karnataka | [My LinkedIn](https://www.linkedin.com/in/rajaneesh-k-b-68965b221/) | 🌐 [My Website](https://rajyenekal.github.io/)
 
 
 
 
 <a href="https://drive.google.com/file/d/1fCN4Tn7fiz4zF0zoEEaADXkKMHqOLp-U/view?usp=sharing" target="_blank" aria-label="View Resume" title="View my resume">
-  <img src="https://img.shields.io/badge/View Resume-green?style=for-the-badge&logo=eye" alt="View Resume">
+  <img src="https://img.shields.io/badge/View-green?style=for-the-badge&logo=eye" alt="View Resume">
 </a>
 <a href="https://drive.google.com/uc?export=download&id=1fCN4Tn7fiz4zF0zoEEaADXkKMHqOLp-U" aria-label="Download Resume" title="Download my resume">
-  <img src="https://img.shields.io/badge/Download Resume-blue?style=for-the-badge&logo=download" alt="Download Resume">
+  <img src="https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=download" alt="Download Resume">
 </a>
 
 
