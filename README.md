@@ -7,8 +7,12 @@
 
 
 
-[![View My Resume](https://img.shields.io/badge/View-My_Resume-green?style=for-the-badge&logo=eye)](https://drive.google.com/file/d/1fCN4Tn7fiz4zF0zoEEaADXkKMHqOLp-U/view?usp=sharing)
-[![Download My Resume](https://img.shields.io/badge/Download-My_Resume-blue?style=for-the-badge&logo=file-download)](https://drive.google.com/uc?export=download&id=1fCN4Tn7fiz4zF0zoEEaADXkKMHqOLp-U)
+<a href="https://drive.google.com/file/d/1fCN4Tn7fiz4zF0zoEEaADXkKMHqOLp-U/view?usp=sharing" target="_blank" aria-label="View Resume" title="View my resume">
+  <img src="https://img.shields.io/badge/View-My_Resume-green?style=for-the-badge&logo=eye" alt="View Resume">
+</a>
+<a href="https://drive.google.com/uc?export=download&id=1fCN4Tn7fiz4zF0zoEEaADXkKMHqOLp-U" aria-label="Download Resume" title="Download my resume">
+  <img src="https://img.shields.io/badge/Download-My_Resume-blue?style=for-the-badge&logo=download" alt="Download Resume">
+</a>
 
 
 
