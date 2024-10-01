@@ -11,7 +11,7 @@
 </a>
 <a href="https://drive.google.com/uc?export=download&id=1aXCpzMXo331EiskKuv0GAfPdWMYvWCXc" aria-label="Download Resume" title="Download my resume">
 <img <img src="https://img.shields.io/badge/Download-Resume-brightgreen?style=for-the-badge&logo=cloud-download&logoColor=white" alt="Download Resume" />
- alt="Download Resume" />
+
 </a>
 
 
