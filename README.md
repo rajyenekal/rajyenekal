@@ -39,21 +39,6 @@ I'm a **QA Automation Engineer** passionate about delivering high-quality softwa
 
 ---
 
-### 🌱 Always Learning
-Continuously exploring new tools to enhance automation and DevOps.
-
----
-
-### 💡 About Me
-Innovative problem solver, detail-oriented, and a strong team player.
-
----
-
-### 🤝 Let’s Connect!
-Reach me at rajyenekal@gmail.com – excited to collaborate and chat about tech!
-
-
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rajaneesh-k-b-68965b221/) 
