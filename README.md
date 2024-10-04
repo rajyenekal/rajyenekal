@@ -33,10 +33,6 @@ I'm a **QA Automation Engineer** passionate about delivering high-quality softwa
 - **Azure CI/CD**: Seamless integration with Azure Pipelines for automated testing with every code change.
 - **Advanced Reporting**: Sending detailed test reports, storing them in S3 buckets for easy access, and including failed test screenshots with retry analysis for flaky tests.
 
-#### **Skills**
-- **Java & Python**: Efficient, reusable test scripts.
-- **API Testing**: Thorough API validation using RestAssured.
-
 ---
 
 
