@@ -63,3 +63,19 @@ Exploring new tools and methodologies to enhance automation, CI/CD, and DevOps p
 
 ### 🤝 Let’s Connect!
 I’m excited to collaborate on projects or discuss tech. Feel free to reach out at rajyenekal@gmail.com
+
+
+🌐 Socials:
+LinkedIn
+
+💻 Tech Stack:
+Java Azure AWS GitHub Git
+
+📊 GitHub Stats:
+
+
+
+
+
+
+
